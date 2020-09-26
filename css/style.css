@@ -1,0 +1,81 @@
+.e
+{
+  background-color: #E69C5F;
+  padding: 5%;
+}
+.IPHONE{
+  width:60%;
+}
+.navbar{
+ padding: 2%;
+
+
+}
+h1{
+
+  padding:5%;
+  font-size: 5rem;
+}
+.navbar-brand
+{
+  font-size: 3rem;
+  color:#DADAE8;
+}
+.nav-link{
+  font-size: 2rem;
+  font-family:'Oswald', sans-serif;
+  color: #DADAE8;
+}
+.navbar-item {
+   padding: 2%;
+}
+.a{
+  margin: 2%;
+}
+.b{
+  margin: 1%;
+}
+.iphone{
+  transform: rotate(20deg);
+}
+.d{
+  text-align: center;
+  padding: 5%;
+}
+.k{
+  color: #E994D3;
+  margin: 3%;
+}
+.k:hover
+{
+  color: #CE97E6;
+}
+.img{
+  text-align: center;
+  margin: 0 auto;
+}
+#display-slide
+{
+  background-color: Black;
+}
+#footer{
+  background-color: #E69C5F;
+  padding: 5% 3%;
+}
+.card{
+   text-align: center;
+  display: inline-block;
+  margin: 5% 5%;
+}
+.g{
+  text-align: center;
+  margin: 5% auto;
+  padding:0 2%;
+color: black;
+
+
+}
+.footer-lead{
+  margin: 1% ,auto;
+
+}
